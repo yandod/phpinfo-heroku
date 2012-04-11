@@ -7,6 +7,9 @@ This sample is challenging to use mbstring as shared library.
 
 # What I did
 
+<code>heroku run bash</code> allows to run command on heroku.
+I did it steps bellow same as mongodb practice.
+
 	mkdir tmp
 	cd tmp
 	git clone https://github.com/php/php-src.git
